@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pic/black bishop.png</file>
+        <file>pic/black king.png</file>
+        <file>pic/black knight.png</file>
+        <file>pic/black pawn.png</file>
+        <file>pic/black queen.png</file>
+        <file>pic/black rook.png</file>
+        <file>pic/white bishop.png</file>
+        <file>pic/white king.png</file>
+        <file>pic/white knight.png</file>
+        <file>pic/white pawn.png</file>
+        <file>pic/white queen.png</file>
+        <file>pic/white rook.png</file>
+        <file>sound/clickbutton.wav</file>
+        <file>sound/movechess.wav</file>
+        <file>sound/pawn.wav</file>
+        <file>sound/victory.wav</file>
+        <file>sound/warning.wav</file>
+        <file>pic/00X58PICmv3JaPNIISj5y_origin_PIC2018.jpg!qt720_jpg</file>
+    </qresource>
+</RCC>
